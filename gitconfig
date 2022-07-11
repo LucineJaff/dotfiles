@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lucinejaff@gmail.com
+	name = Lucine Jaff
